@@ -4,8 +4,8 @@ This repository contains a complete, event-driven backtesting engine built from 
 The strategy models the mean-reverting behavior of the performance spread between the QQQ ETF and a synthetic, rebased basket of 5 large-cap tech stocks (AAPL, AMZN, META, GOOGL, NFLX).
 
 ### Final Strategy Performance (5-Year Backtest)
-![Final Performance Dashboard](img/dashboard_performance.png) 
-*(Note: You must add your best dashboard screenshot to an `img` folder as `dashboard_performance.png` for this to display)*
+![Final Performance Dashboard](img/best-strat.png) 
+
 
 ---
 ## Core Strategy & Methodology
